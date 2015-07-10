@@ -4,6 +4,7 @@
   <description>Holds the relevant messages for the hector_move_base package</description>
   
   <author email="fkunz@sim.tu-darmstadt.de">Florian Kunz</maintainer>
+  <author email="meyer@fsr.tu-darmstadt.de">Johannes Meyer</maintainer>
   
   <maintainer email="kohlbrecher@sim.tu-darmstadt.de">Stefan Kohlbrecher</maintainer>
 
@@ -26,8 +27,7 @@
   <run_depend>geometry_msgs</run_depend>
   <run_depend>nav_msgs</run_depend>
 
-<export>
-    <cpp cflags="-I${prefix}/include"/>
-</export>
+  <export>
+  </export>
 
 </package>
