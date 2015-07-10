@@ -3,8 +3,8 @@
   <version>0.1.0</version>
   <description>Holds the relevant messages for the hector_move_base package</description>
   
-  <author email="fkunz@sim.tu-darmstadt.de">Florian Kunz</maintainer>
-  <author email="meyer@fsr.tu-darmstadt.de">Johannes Meyer</maintainer>
+  <author email="fkunz@sim.tu-darmstadt.de">Florian Kunz</author>
+  <author email="meyer@fsr.tu-darmstadt.de">Johannes Meyer</author>
   
   <maintainer email="kohlbrecher@sim.tu-darmstadt.de">Stefan Kohlbrecher</maintainer>
 
