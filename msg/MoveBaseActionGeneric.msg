@@ -7,3 +7,4 @@ uint8 EXPLORE = 3
 uint8 type
 
 uint8[] goal
+bool reverse_allowed
